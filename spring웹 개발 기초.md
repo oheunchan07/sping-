@@ -56,8 +56,9 @@ public class HelloController {
 ```
 hello (name)
 ```
+- - -
 
-## API
+## 3. API
 ### ResponseBody 문자 변환: 문자가 그대로 내려간다
 ### ex)
 ```
