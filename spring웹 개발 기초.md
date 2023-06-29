@@ -25,7 +25,7 @@
 - - -
 <br>
 
-## 2. MVS와 템플릿 엔진 
+## 2. MVC와 템플릿 엔진 
 ### MVC란? Model, View, Controller의 약자
 ### ex)
 #### Controller
