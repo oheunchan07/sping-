@@ -8,3 +8,6 @@
 [DB접근 기술](https://github.com/oheunchan07/spring/blob/main/spring/%20DB%EC%A0%91%EA%B7%BC%20%EA%B8%B0%EC%88%A0.md)
 
 [AOP](https://github.com/oheunchan07/spring/blob/main/spring/AOP.md)
+
+[mysql연동]
+(https://github.com/oheunchan07/spring/blob/main/spring/mysql%EC%97%B0%EB%8F%99.md)
