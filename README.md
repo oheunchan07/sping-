@@ -9,5 +9,4 @@
 
 [AOP](https://github.com/oheunchan07/spring/blob/main/spring/AOP.md)
 
-[mysql연동]
-(https://github.com/oheunchan07/spring/blob/main/spring/mysql%EC%97%B0%EB%8F%99.md)
+[mysql연동](https://github.com/oheunchan07/spring/blob/main/spring/mysql%EC%97%B0%EB%8F%99.md)
